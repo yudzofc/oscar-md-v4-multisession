@@ -1,7 +1,7 @@
 {
-    "name": "khurushi",
+    "name": "Oscar-md",
     "version": "3.0.0",
-    "description": "WhatsApp BOT By wahid",
+    "description": "WhatsApp BOT By Jarot",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -44,16 +44,16 @@
         "google-it",
         "baileys-md"
     ],
-    "homepage": "https://github.com/Wahidhidayatulla/fix-bot-v1",
+    "homepage": "https://github.com/Alpiii22/oscar-md-v4-multisession",
     "author": {
-        "name": "Wahidhidayatulla"
+        "name": "Jarot"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Wahidhidayatulla/fix-bot-v1"
+        "url": "git+https://github.com/Alpiii22/oscar-md-v4-multisession"
     },
     "bugs": {
-        "url": "https://github.com/Wahidhidayatulla/fix-bot-v1/"
+        "url": "https://github.com/Alpiii22/oscar-md-v4-multisession/"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
